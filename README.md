@@ -38,11 +38,17 @@ Links to used libraries:
 
 First install the necessary libraries. Open terminal and run:
 
-- "apt-get install libsdl2-dev" - install the SDL2 library that provides low level access to audio, keyboard, mouse, joystick and graphics hardware. (www.libsdl.org)
+- "apt-get install libsdl2-dev" 
 
-- "apt-get install libsdl2-image-dev" - image file loading library (www.libsdl.org/projects/SDL_image/)
+This installs the SDL2 library that provides low level access to audio, keyboard, mouse, joystick and graphics hardware. (www.libsdl.org)
 
-- "apt-get install libsdl2-ttf-dev" - allows the use of TrueType fonts in SDL applications (www.libsdl.org/projects/SDL_ttf/)
+- "apt-get install libsdl2-image-dev" 
+
+This install the image file loading library (www.libsdl.org/projects/SDL_image/)
+
+- "apt-get install libsdl2-ttf-dev"
+
+This installs the library that allows the use of TrueType fonts in SDL applications (www.libsdl.org/projects/SDL_ttf/)
 
 ### Running
 
@@ -57,7 +63,6 @@ Launch terminal and cd to "linux game" directory. Execute the command:
 First, needed libraries must be installed as explained in "Running the minigame" -> "Linux" -> "Prerequisites".
 
 The developed code runs on both OS but the names of the include files for Linux must be changed from:
-
 -"SDL.h" to "SDL2/SDL.h"
 -"SDL_image.h" to "SDL2/SDL_image.h"
 -"SDL_ttf.h" to "SDL2/SDL_ttf.h"
@@ -76,5 +81,5 @@ To execute.
 
 ## Authors
 
-* **Alcino Sousa**
+* **Alcino Sousa** 2018
 
