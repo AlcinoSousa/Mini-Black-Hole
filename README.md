@@ -54,7 +54,7 @@ This installs the SDL2 library that provides low level access to audio, keyboard
 
 - "apt-get install libsdl2-image-dev" 
 
-This install the image file loading library (www.libsdl.org/projects/SDL_image/)
+This installs the image file loading library (www.libsdl.org/projects/SDL_image/)
 
 - "apt-get install libsdl2-ttf-dev"
 
