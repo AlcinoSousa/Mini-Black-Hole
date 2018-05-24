@@ -3,9 +3,9 @@
 //default constructor
 Window::Window()
 {
-	this->mWindow = NULL;
-	this->mWidth = 0;
-	this->mHeight = 0;
+	mWindow = NULL;
+	mWidth = 0;
+	mHeight = 0;
 }
 
 //used to free resources

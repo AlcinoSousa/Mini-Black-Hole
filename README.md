@@ -2,11 +2,21 @@
 
 This is a minigame written in C++ and using the SDL library (https://www.libsdl.org/). It works on Windows and Linux.
 
+## Game instructions
+
+Press "Credits In!" to add credits to game. 
+
+Press "Start" to star the game. Press "Start" again to pause. 
+
+Press "Credits Out!" to remove credits from the game. 
+
+Press the ESCAPE key to exit game.
+
 ## Directories
 
 ### assets
 
-The "assets" directory includes all the files needed to run the minigame. This assets include images and a font. All images were developed by me.
+The "assets" directory includes all the files needed to run the minigame. These assets include images and a font. All images were made by me.
 
 ### mini black hole 
 
@@ -54,6 +64,7 @@ This installs the library that allows the use of TrueType fonts in SDL applicati
 
 Launch terminal and cd to "linux game" directory. Execute the command: 
 
+- "chmod u+x mini_black_hole"
 - "./mini_black_hole"
 
 ## Compiling 

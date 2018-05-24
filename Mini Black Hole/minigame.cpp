@@ -383,14 +383,14 @@ void draw(int* initialPlays, bool* primaryRenderOfDisplays, std::stringstream* d
 int main( int argc, char* args[])
 {
 	//starting up SDL and create window
-	if( !initLibs() )
+	if(!initLibs())
 	{
 		printf( "Failed to initialize!\n" );
 	}
 	else
 	{
 		//loading media
-		if( !loadMedia() )
+		if(!loadMedia())
 		{
 			printf( "Failed to load media!\n" );
 		}
