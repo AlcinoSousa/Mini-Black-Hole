@@ -6,7 +6,7 @@ This is a minigame written in C++ and using the SDL library (https://www.libsdl.
 
 Press "Credits In!" to add credits to game. 
 
-Press "Start" to star the game. Press "Start" again to pause. 
+Press "Start" to start the game. Press "Start" again to pause. 
 
 Press "Credits Out!" to remove credits from the game. 
 
