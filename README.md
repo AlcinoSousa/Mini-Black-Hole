@@ -28,7 +28,7 @@ The "linux game" directory includes all needed files to run the minigame in the 
 Enter the "windows game" directory and run "Mini Black Hole.exe". All assets and dlls needed are in the folder. 
 
 Links to used libraries: 
-- www.libsdl.org
+- www.libsdl.org/download-2.0.php
 - www.libsdl.org/projects/SDL_image/
 - www.libsdl.org/projects/SDL_ttf/
 
