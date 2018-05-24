@@ -63,6 +63,7 @@ Launch terminal and cd to "linux game" directory. Execute the command:
 First, needed libraries must be installed as explained in "Running the minigame" -> "Linux" -> "Prerequisites".
 
 The developed code runs on both OS but the names of the include files for Linux must be changed from:
+
 -"SDL.h" to "SDL2/SDL.h"
 -"SDL_image.h" to "SDL2/SDL_image.h"
 -"SDL_ttf.h" to "SDL2/SDL_ttf.h"
