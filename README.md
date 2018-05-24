@@ -70,6 +70,7 @@ The developed code runs on both OS but the names of the include files for Linux 
 Then cd to code directory. 
 
 Run:
+
 -"g++ -o mini_black_hole sceneObject.cpp window.cpp button.cpp minigame.cpp timer.cpp texture.cpp -lSDL2 -lSDL2_image -lSDL2_ttf"
 
 The minigame is compiled.
